@@ -10,7 +10,7 @@ import java.util.UUID;
 /**
  * Created by jt on 2019-04-20.
  */
-@Data
+@Data // generate getter and setter, hashcode...
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
